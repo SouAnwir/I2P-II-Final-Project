@@ -13,10 +13,10 @@
 #include <vector>
 #include "search_types.hpp"
 #include "game_history.hpp"
-#include "minimax.hpp"
-#include "pvs.hpp"
-#include "pvs_adv.hpp"
-#include "q_search.hpp"
+#include "114006232_minimax.hpp"
+#include "114006232_pvs.hpp"
+#include "114006232_submission.hpp"
+#include "114006232_q_search.hpp"
 #include "random.hpp"
 
 struct AlgoEntry {

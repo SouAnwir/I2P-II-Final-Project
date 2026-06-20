@@ -12,7 +12,7 @@
 #include "ubgi.hpp"
 #include "config.hpp"
 #include "search_types.hpp"
-#include "../policy/registry.hpp"
+#include "../policy/114006232_registry.hpp"
 #include "../policy/game_history.hpp"
 
 namespace ubgi {
